@@ -1,0 +1,15 @@
+{
+    "rss": {
+        "feed_url": "https://www.jucktion.com/feed",
+        "include_keywords": [],
+        "exclude_keywords": ["help", "question", "issue"]
+    },
+    "reddit": {
+        "subreddit": "jucktion"
+    },
+    "app": {
+        "max_posts_per_run": 3,
+        "history_retention_days": 30,
+        "history_file": "history.json"
+    }
+}
